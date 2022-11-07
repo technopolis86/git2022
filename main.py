@@ -2,6 +2,7 @@ def main():
     print('My first git program')
     print('hello')
     print('world')
+    print('!@#$%^')
 
 
 
